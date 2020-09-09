@@ -17,7 +17,7 @@ services. The `multiply` blend mode multiplies the values of each pixel of the t
 
 [View the code](https://github.com/ubatsukh/arcgis-js-api-demos/tree/master/blendlayer)
 
-[View the live sample](https://ubatsukh.github.io/arcgis-js-api-demos/blendlayer/)
+[View the live sample](https://gprykhodko.github.io/arcgis-js-api-demos/blendlayer/)
 
 
 
